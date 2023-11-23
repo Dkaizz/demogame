@@ -1,0 +1,14 @@
+{ "columns":32,
+ "image":"..\/..\/Th\u01b0 mu\u0323c m\u01a1\u0301i\/Pixel Art Platformer - Village Props v2.3.0\/Texture\/TX Village Props.png",
+ "imageheight":1024,
+ "imagewidth":1024,
+ "margin":0,
+ "name":"TX Village Props",
+ "spacing":0,
+ "tilecount":1024,
+ "tiledversion":"1.10.1",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.10"
+}
